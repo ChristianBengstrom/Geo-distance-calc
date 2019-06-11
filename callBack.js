@@ -1,5 +1,7 @@
 'use strict'
 
+// test
+
 let getJSONFile = function(e) {
     let ajax = Object.create(Ajax);
     ajax.init();
